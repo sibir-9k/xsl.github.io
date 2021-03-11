@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="#xslt_lab2"?>
 <!DOCTYPE root 
-  [  <!ATTLIST xsl:stylesheet id ID #REQUIRED> ]   
+  [  <!ATTLIST xsl:stylesheet id ID #REQUIRED> ] >
 <root> 
     <xsl:stylesheet version="1.0" id="xslt_lab2" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <xsl:template match="xsl:stylesheet" />
